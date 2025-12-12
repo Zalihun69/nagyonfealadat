@@ -1,0 +1,51 @@
+# Visual Studio cache folders
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.ide
+
+# Visual Studio working files
+*.dbmdl
+*.jfm
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Auto-generated files
+Generated/
+GeneratedCode/
+
+# Publish output
+publish/
+appsettings.Development.json
+
+# ASP.NET specific
+wwwroot/lib/
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Rider / ReSharper / JetBrains
+.idea/
+*.DotSettings.user
+
+# Others
+Thumbs.db
+*.DS_Store
